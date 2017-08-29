@@ -5,3 +5,4 @@ Git tracks changes of lines.
 My stupid boss still prefers SVN.
 I have had created a repositry
 I have create a branch.
+Creating a new branch is quick AND simple.
